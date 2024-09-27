@@ -8,10 +8,18 @@
 
 **Link to work:** [Reddit Clone](https://github.com/carlosclavijo/reddit)
 
-### Day 2: September 24, 2024
+### Day 2: September 25, 2024
 
 **Today's Progress**: I make the DB connection, middleware, routes and configurations.
 
 **Thoughts:** I didn't remember that in golang you can't called only the main, but all the others scripts too to run the project. So I was like 2 hours trying and failing.
+
+**Link to work:** [Reddit Clone](https://github.com/carlosclavijo/reddit)
+
+### Day 2: September 25, 2024
+
+**Today's Progress**: I make all the models and my first POST request
+
+**Thoughts:** I was stuck for hours on a mistake that I make with models, database connection and the JSON unmarshall but finally I make it.
 
 **Link to work:** [Reddit Clone](https://github.com/carlosclavijo/reddit)
