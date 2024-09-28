@@ -16,10 +16,18 @@
 
 **Link to work:** [Reddit Clone](https://github.com/carlosclavijo/reddit)
 
-### Day 2: September 25, 2024
+### Day 3: September 26, 2024
 
 **Today's Progress**: I make all the models and my first POST request
 
 **Thoughts:** I was stuck for hours on a mistake that I make with models, database connection and the JSON unmarshall but finally I make it.
+
+**Link to work:** [Reddit Clone](https://github.com/carlosclavijo/reddit)
+
+### Day 4: September 27, 2024
+
+**Today's Progress**: I make all the POST requests of the 17 tables
+
+**Thoughts:** I had a lot of troubles parsing the JSON requests and POSTS using postman.
 
 **Link to work:** [Reddit Clone](https://github.com/carlosclavijo/reddit)
