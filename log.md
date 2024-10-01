@@ -31,3 +31,20 @@
 **Thoughts:** I had a lot of troubles parsing the JSON requests and POSTS using postman.
 
 **Link to work:** [Reddit Clone](https://github.com/carlosclavijo/reddit)
+
+
+### Day 5: September 28, 2024
+
+**Today's Progress**: I fix all the responses of the POST requests
+
+**Thoughts:** I had a lot of troubles parsing the JSON requests and POSTS using postman. Again...
+
+**Link to work:** [Reddit Clone](https://github.com/carlosclavijo/reddit)
+
+### Day 6: September 30, 2024
+
+**Today's Progress**: I did my first GET request by Id, now the POST request can handle with null values and fix some errors
+
+**Thoughts:** Handling with null values in Golang is kinda hard comparing to other languages like PHP and Java
+
+**Link to work:** [Reddit Clone](https://github.com/carlosclavijo/reddit)
