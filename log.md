@@ -48,3 +48,11 @@
 **Thoughts:** Handling with null values in Golang is kinda hard comparing to other languages like PHP and Java
 
 **Link to work:** [Reddit Clone](https://github.com/carlosclavijo/reddit)
+
+### Day 7: October 01, 2024
+
+**Today's Progress**: I finished all the GET, POST, PUT, PATCH and DELETE requests of users and subreddits tables.
+
+**Thoughts:** I have difficulties with updates requests.
+
+**Link to work:** [Reddit Clone](https://github.com/carlosclavijo/reddit)
