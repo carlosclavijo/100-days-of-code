@@ -56,3 +56,11 @@
 **Thoughts:** I have difficulties with updates requests.
 
 **Link to work:** [Reddit Clone](https://github.com/carlosclavijo/reddit)
+
+### Day 8: October 02, 2024
+
+**Today's Progress**: I finished all the GET, POST, PUT, PATCH and DELETE requests of topics and subredditsusers tables. And also I create the frontend using React
+
+**Thoughts:** CORS policies gave me a headache like 2 hours haha 
+
+**Link to work:** [Reddit Clone](https://github.com/carlosclavijo/reddit)
