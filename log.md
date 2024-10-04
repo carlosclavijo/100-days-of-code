@@ -64,3 +64,11 @@
 **Thoughts:** CORS policies gave me a headache like 2 hours haha 
 
 **Link to work:** [Reddit Clone](https://github.com/carlosclavijo/reddit)
+
+### Day 8: October 02, 2024
+
+**Today's Progress**: I finished all the GET, POST, PUT, PATCH and DELETE requests of topicsusers tables. And also I make the users table in react table
+
+**Thoughts:** Handling with uuid nulls in backend had me a headache
+
+**Link to work:** [Reddit Clone](https://github.com/carlosclavijo/reddit)
