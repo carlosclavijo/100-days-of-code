@@ -65,7 +65,7 @@
 
 **Link to work:** [Reddit Clone](https://github.com/carlosclavijo/reddit)
 
-### Day 8: October 02, 2024
+### Day 9: October 03, 2024
 
 **Today's Progress**: I finished all the GET, POST, PUT, PATCH and DELETE requests of topicsusers tables. And also I make the users table in react table
 
