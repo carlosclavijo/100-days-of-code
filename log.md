@@ -81,10 +81,18 @@
 
 **Link to work:** [Reddit Clone](https://github.com/carlosclavijo/reddit)
 
-### Day 11: October 04, 2024
+### Day 11: October 07, 2024
 
 **Today's Progress**: I rebuild all the Subreddit and Config handlers and DBRepos
 
 **Thoughts:** Handling with context make it harder but is the correct way so i rebuild every DB query request
+
+**Link to work:** [Reddit Clone](https://github.com/carlosclavijo/reddit)
+
+### Day 12: October 08, 2024
+
+**Today's Progress**: I rebuild all the Config and SubredditTopic and SubredditUser handlers
+
+**Thoughts:** Handling with routers was kinda hard but finally i did it right.
 
 **Link to work:** [Reddit Clone](https://github.com/carlosclavijo/reddit)
