@@ -72,3 +72,19 @@
 **Thoughts:** Handling with uuid nulls in backend had me a headache
 
 **Link to work:** [Reddit Clone](https://github.com/carlosclavijo/reddit)
+
+### Day 10: October 04, 2024
+
+**Today's Progress**: I rebuild the code of User, Topic and TopicUsers handlers using clean code architecture.
+
+**Thoughts:** I had a lot of difficulties handling with structs inside other structs.
+
+**Link to work:** [Reddit Clone](https://github.com/carlosclavijo/reddit)
+
+### Day 11: October 04, 2024
+
+**Today's Progress**: I rebuild all the Subreddit and Config handlers and DBRepos
+
+**Thoughts:** Handling with context make it harder but is the correct way so i rebuild every DB query request
+
+**Link to work:** [Reddit Clone](https://github.com/carlosclavijo/reddit)
