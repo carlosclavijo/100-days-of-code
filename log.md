@@ -120,3 +120,12 @@
 **Thoughts:** I am getting bored of doing all these requests tbh(x2)
 ???
 **Link to work:** [Reddit Clone](https://github.com/carlosclavijo/reddit)
+
+
+### Day 16: October 10, 2024
+
+**Today's Progress**: This is a test 2
+
+**Thoughts:** I am getting bored of doing all these requests tbh(x2)
+???
+**Link to work:** [Reddit Clone](https://github.com/carlosclavijo/reddit)
