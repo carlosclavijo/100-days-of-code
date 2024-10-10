@@ -96,3 +96,11 @@
 **Thoughts:** Handling with routers was kinda hard but finally i did it right.
 
 **Link to work:** [Reddit Clone](https://github.com/carlosclavijo/reddit)
+
+### Day 13: October 09, 2024
+
+**Today's Progress**: I make all the requests for Tags and Posts tables
+
+**Thoughts:** I am getting bored of doing all these requests tbh
+
+**Link to work:** [Reddit Clone](https://github.com/carlosclavijo/reddit)
