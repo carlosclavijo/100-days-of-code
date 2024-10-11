@@ -104,3 +104,11 @@
 **Thoughts:** I am getting bored of doing all these requests tbh
 
 **Link to work:** [Reddit Clone](https://github.com/carlosclavijo/reddit)
+
+### Day 14: October 10, 2024
+
+**Today's Progress**: I make all the requests for PostTags cross table
+
+**Thoughts:** I am getting bored of doing all these requests tbh(x2)
+
+**Link to work:** [Reddit Clone](https://github.com/carlosclavijo/reddit)
