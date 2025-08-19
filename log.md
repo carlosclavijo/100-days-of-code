@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: August 4, 2025
-##### (delete me or comment me out)
+### Day 1: August 18, 2025
 
 **Today's Progress**: Solving 15 excercises of Go in Exercism
 
@@ -9,7 +8,7 @@
 
 **Readings:** I readed the first two chapters of Building a Carrer in Software from Daniel Heller
 
-**Link to work:** [Stream](https://www.youtube.com/live/tl14D1oowkg)
+**Link to work:** [Stream](https://youtube.com/live/zmAe4A8CAKU?feature=share)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
