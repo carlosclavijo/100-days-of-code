@@ -11,3 +11,15 @@ I started a new project in Go with DDD/CQRD infrastructure and microservices arc
 [Stream](https://youtube.com/live/zmAe4A8CAKU?feature=share)
 [Readings](https://github.com/carlosclavijo/IT-Reading-Notes/blob/main/building-a-career-in-software.md)
 [Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
+
+### Day 2: September 9, 2025
+
+**Today's Progress**:
+I added the infrastructure layer to the Administrator entity and did the first request.
+
+**Thoughts:** I have troubles routing my Administrator entity, but in the end, it works.
+
+**Links to work:** 
+[Stream](https://youtube.com/live/tTeQ21W0AkI?feature=share)
+[Readings](https://github.com/carlosclavijo/IT-Reading-Notes/blob/main/building-a-career-in-software.md)
+[Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
