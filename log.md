@@ -23,3 +23,15 @@ I added the infrastructure layer to the Administrator entity and did the first r
 [Stream](https://youtube.com/live/tTeQ21W0AkI?feature=share)
 [Readings](https://github.com/carlosclavijo/IT-Reading-Notes/blob/main/building-a-career-in-software.md)
 [Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
+
+### Day 3: September 10, 2025
+
+**Today's Progress**:
+I complete the Create, Update and Delete(Soft delete) returning all information.
+
+**Thoughts:** I am going to add more, and more powerfull requests later.
+
+**Links to work:** 
+[Stream](https://youtube.com/live/UMl41yGdGCo?feature=share)
+[Readings](https://github.com/carlosclavijo/IT-Reading-Notes/blob/main/building-a-career-in-software.md)
+[Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
