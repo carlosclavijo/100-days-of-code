@@ -35,3 +35,15 @@ I complete the Create, Update and Delete(Soft delete) returning all information.
 [Stream](https://youtube.com/live/UMl41yGdGCo?feature=share)
 [Readings](https://github.com/carlosclavijo/IT-Reading-Notes/blob/main/building-a-career-in-software.md)
 [Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
+
+### Day 4: September 11, 2025
+
+**Today's Progress**:
+Complete CRUD with administrators table, added better request responses with Success and Error values. Added Exist, Count and Get to the repository.
+
+**Thoughts:** Work with regex to validate information through the factories is hard.
+
+**Links to work:** 
+[Stream](https://youtube.com/live/UMl41yGdGCo?feature=share)
+[Readings](https://github.com/carlosclavijo/IT-Reading-Notes/blob/main/building-a-career-in-software.md)
+[Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)

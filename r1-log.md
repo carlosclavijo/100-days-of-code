@@ -10,5 +10,8 @@ Started a Nutricional Center web application. Worked on the contracting microser
 ### R1D2
 Infrastructure and Web layers added to Administrator entity.
 
-### R1D2
+### R1D3
 CRUD of administrator entity almost complete.
+
+### R1D4
+CRUD with powers of administrator entity complete.
