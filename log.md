@@ -44,6 +44,6 @@ Complete CRUD with administrators table, added better request responses with Suc
 **Thoughts:** Work with regex to validate information through the factories is hard.
 
 **Links to work:** 
-[Stream](https://youtube.com/live/UMl41yGdGCo?feature=share)
+[Stream](https://youtube.com/live/UmMSvwJSx_k?feature=share)
 [Readings](https://github.com/carlosclavijo/IT-Reading-Notes/blob/main/building-a-career-in-software.md)
 [Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
