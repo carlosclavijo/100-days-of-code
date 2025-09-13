@@ -15,3 +15,6 @@ CRUD of administrator entity almost complete.
 
 ### R1D4
 CRUD with powers of administrator entity complete.
+
+### R1D5
+Intelligent responses to all requests, even the bad ones.
