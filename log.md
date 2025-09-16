@@ -48,7 +48,7 @@ Complete CRUD with administrators table, added better request responses with Suc
 [Readings](https://github.com/carlosclavijo/IT-Reading-Notes/blob/main/building-a-career-in-software.md)
 [Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
 
-### Day 4: September 11, 2025
+### Day 5: September 12, 2025
 
 **Today's Progress**:
 Security and intelligent request responses added to all requests, logs on every error possible too.
@@ -57,5 +57,17 @@ Security and intelligent request responses added to all requests, logs on every 
 
 **Links to work:** 
 [Stream](https://youtube.com/live/ZQvHEOlic94)
+[Readings](https://github.com/carlosclavijo/IT-Reading-Notes/blob/main/building-a-career-in-software.md)
+[Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
+
+### Day 6: September 15, 2025
+
+**Today's Progress**:
+Adding inmutability to Administrator and value objects.
+
+**Thoughts:** Working with DDD/CQRS/Clear architecture is 10 times time consuming that working with an MVC architecture
+
+**Links to work:** 
+[Stream](https://youtube.com/live/7Bd08CwJbMs)
 [Readings](https://github.com/carlosclavijo/IT-Reading-Notes/blob/main/building-a-career-in-software.md)
 [Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)

@@ -18,3 +18,6 @@ CRUD with powers of administrator entity complete.
 
 ### R1D5
 Intelligent responses to all requests, even the bad ones.
+
+### R1D6
+Value objects and inmutability added
