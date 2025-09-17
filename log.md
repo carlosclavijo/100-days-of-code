@@ -71,3 +71,15 @@ Adding inmutability to Administrator and value objects.
 [Stream](https://youtube.com/live/7Bd08CwJbMs)
 [Readings](https://github.com/carlosclavijo/IT-Reading-Notes/blob/main/building-a-career-in-software.md)
 [Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
+
+### Day 7: September 16, 2025
+
+**Today's Progress**:
+Refactoring Requests
+
+**Thoughts:** Learning good practices isnt that easy but is the best way to build(if you don't have a deadline, at least)
+
+**Links to work:** 
+[Stream](https://youtube.com/live/sofZ0nIoBWQ)
+[Readings](https://github.com/carlosclavijo/IT-Reading-Notes/blob/main/building-a-career-in-software.md)
+[Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)

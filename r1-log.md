@@ -21,3 +21,6 @@ Intelligent responses to all requests, even the bad ones.
 
 ### R1D6
 Value objects and inmutability added
+
+### R1D7
+Good request responses
