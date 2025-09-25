@@ -83,3 +83,16 @@ Refactoring Requests
 [Stream](https://youtube.com/live/sofZ0nIoBWQ)
 [Readings](https://github.com/carlosclavijo/IT-Reading-Notes/blob/main/building-a-career-in-software.md)
 [Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
+
+### Day 8: September 23, 2025
+
+**Today's Progress**:
+Refactoring Requests
+
+**Thoughts:** I have troubles working with my first entity(non-aggregateRoot) and its relationship with its mother entity.
+
+**Links to work:** 
+[Stream 1](https://youtube.com/live/fchoce_pSnY)
+[Stream 2](https://youtube.com/live/GRCpzuDhPyI)
+[Readings](https://github.com/carlosclavijo/IT-Reading-Notes/blob/main/building-a-career-in-software.md)
+[Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)

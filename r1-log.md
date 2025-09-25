@@ -24,3 +24,6 @@ Value objects and inmutability added
 
 ### R1D7
 Good request responses
+
+### R1D7
+Contract table added
