@@ -96,3 +96,15 @@ Refactoring Requests
 [Stream 2](https://youtube.com/live/GRCpzuDhPyI)
 [Readings](https://github.com/carlosclavijo/IT-Reading-Notes/blob/main/building-a-career-in-software.md)
 [Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
+
+### Day 9: September 25, 2025
+
+**Today's Progress**:
+Refactoring Requests
+
+**Thoughts:** Doing tests is kinda messy in Go, I remember in C# is easier
+
+**Links to work:** 
+[Stream](https://www.youtube.com/live/sAJioQgndCo)
+[Readings](https://github.com/carlosclavijo/IT-Reading-Notes/blob/main/building-a-career-in-software.md)
+[Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
