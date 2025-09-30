@@ -25,5 +25,11 @@ Value objects and inmutability added
 ### R1D7
 Good request responses
 
-### R1D7
+### R1D8
 Contract table added
+
+### R1D9
+Delivery table added
+
+### R1D10
+Doing the firsts tests

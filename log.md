@@ -9,7 +9,6 @@ I started a new project in Go with DDD/CQRD infrastructure and microservices arc
 
 **Links to work:** 
 [Stream](https://youtube.com/live/zmAe4A8CAKU)
-[Readings](https://github.com/carlosclavijo/IT-Reading-Notes/blob/main/building-a-career-in-software.md)
 [Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
 
 ### Day 2: September 9, 2025
@@ -21,7 +20,6 @@ I added the infrastructure layer to the Administrator entity and did the first r
 
 **Links to work:** 
 [Stream](https://youtube.com/live/tTeQ21W0AkI)
-[Readings](https://github.com/carlosclavijo/IT-Reading-Notes/blob/main/building-a-career-in-software.md)
 [Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
 
 ### Day 3: September 10, 2025
@@ -33,7 +31,6 @@ I complete the Create, Update and Delete(Soft delete) returning all information.
 
 **Links to work:** 
 [Stream](https://youtube.com/live/UMl41yGdGCo)
-[Readings](https://github.com/carlosclavijo/IT-Reading-Notes/blob/main/building-a-career-in-software.md)
 [Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
 
 ### Day 4: September 11, 2025
@@ -45,7 +42,6 @@ Complete CRUD with administrators table, added better request responses with Suc
 
 **Links to work:** 
 [Stream](https://youtube.com/live/UmMSvwJSx_k)
-[Readings](https://github.com/carlosclavijo/IT-Reading-Notes/blob/main/building-a-career-in-software.md)
 [Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
 
 ### Day 5: September 12, 2025
@@ -57,7 +53,6 @@ Security and intelligent request responses added to all requests, logs on every 
 
 **Links to work:** 
 [Stream](https://youtube.com/live/ZQvHEOlic94)
-[Readings](https://github.com/carlosclavijo/IT-Reading-Notes/blob/main/building-a-career-in-software.md)
 [Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
 
 ### Day 6: September 15, 2025
@@ -69,7 +64,6 @@ Adding inmutability to Administrator and value objects.
 
 **Links to work:** 
 [Stream](https://youtube.com/live/7Bd08CwJbMs)
-[Readings](https://github.com/carlosclavijo/IT-Reading-Notes/blob/main/building-a-career-in-software.md)
 [Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
 
 ### Day 7: September 16, 2025
@@ -81,7 +75,6 @@ Refactoring Requests
 
 **Links to work:** 
 [Stream](https://youtube.com/live/sofZ0nIoBWQ)
-[Readings](https://github.com/carlosclavijo/IT-Reading-Notes/blob/main/building-a-career-in-software.md)
 [Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
 
 ### Day 8: September 23, 2025
@@ -94,7 +87,6 @@ Refactoring Requests
 **Links to work:** 
 [Stream 1](https://youtube.com/live/fchoce_pSnY)
 [Stream 2](https://youtube.com/live/GRCpzuDhPyI)
-[Readings](https://github.com/carlosclavijo/IT-Reading-Notes/blob/main/building-a-career-in-software.md)
 [Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
 
 ### Day 9: September 25, 2025
@@ -106,5 +98,15 @@ Refactoring Requests
 
 **Links to work:** 
 [Stream](https://www.youtube.com/live/sAJioQgndCo)
-[Readings](https://github.com/carlosclavijo/IT-Reading-Notes/blob/main/building-a-career-in-software.md)
+[Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
+
+### Day 10: September 29, 2025
+
+**Today's Progress**:
+Refactoring Requests
+
+**Thoughts:** Every time I do something new I realized that I do something wrong and need to reestrucuter. The good part is that when I will do another project I would know what am I doing.
+
+**Links to work:** 
+[Stream](https://www.youtube.com/live/sAJioQgndCo)
 [Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
