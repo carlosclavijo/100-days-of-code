@@ -80,7 +80,7 @@ Refactoring Requests
 ### Day 8: September 23, 2025
 
 **Today's Progress**:
-Refactoring Requests
+Creating the Contract Aggregate and Entity delivey
 
 **Thoughts:** I have troubles working with my first entity(non-aggregateRoot) and its relationship with its mother entity.
 
@@ -92,7 +92,7 @@ Refactoring Requests
 ### Day 9: September 25, 2025
 
 **Today's Progress**:
-Refactoring Requests
+Adding functions to the Delivery
 
 **Thoughts:** Doing tests is kinda messy in Go, I remember in C# is easier
 
@@ -103,10 +103,21 @@ Refactoring Requests
 ### Day 10: September 29, 2025
 
 **Today's Progress**:
-Refactoring Requests
+Refactoring the entire project with DDD and Clean architecture
 
 **Thoughts:** Every time I do something new I realized that I do something wrong and need to reestrucuter. The good part is that when I will do another project I would know what am I doing.
 
 **Links to work:** 
 [Stream](https://www.youtube.com/live/sAJioQgndCo)
+[Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
+
+### Day 11: October 1, 2025
+
+**Today's Progress**:
+Contract and Delivery CRUD completed
+
+**Thoughts:** Every time I do something new I realized that I do something wrong and need to reestrucuter. The good part is that when I will do another project I would know what am I doing.
+
+**Links to work:** 
+[Stream](https://youtube.com/live/xzDGlL_ojDs)
 [Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)

@@ -33,3 +33,6 @@ Delivery table added
 
 ### R1D10
 Doing the firsts tests
+
+### R1D11
+Finishing the contract and delivery entities
