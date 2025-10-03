@@ -35,4 +35,4 @@ Delivery table added
 Doing the firsts tests
 
 ### R1D11
-Finishing the contract and delivery entities
+Abstractions and Valueobjects test done

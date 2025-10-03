@@ -121,3 +121,15 @@ Contract and Delivery CRUD completed
 **Links to work:** 
 [Stream](https://youtube.com/live/xzDGlL_ojDs)
 [Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
+
+### Day 12: October 2, 2025
+
+**Today's Progress**:
+Abstractions and ValueObjects test added
+
+**Thoughts:** There's a lot of functions inside the testing.T library, speccialy in the assets
+
+**Links to work:** 
+[Stream 1](https://youtube.com/live/ziI-xod-VWs)
+[Stream 1](https://youtube.com/live/b6YkrUcRua8)
+[Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
