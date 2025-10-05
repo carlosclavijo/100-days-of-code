@@ -131,5 +131,29 @@ Abstractions and ValueObjects test added
 
 **Links to work:** 
 [Stream 1](https://youtube.com/live/ziI-xod-VWs)
-[Stream 1](https://youtube.com/live/b6YkrUcRua8)
+[Stream 2](https://youtube.com/live/b6YkrUcRua8)
+[Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
+
+### Day 13: October 3, 2025
+
+**Today's Progress**:
+Administrator and Patient test added
+
+**Thoughts:** Everytime I do something in my project, I search if I applyied right the DDD architecture, only to find out that I did it wrong, so I went back to rewrite that part of the code and parts that calls it.
+
+**Links to work:** 
+[Stream 1](https://youtube.com/live/vc15g9QLt5Q)
+[Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
+
+### Day 14: October 4, 2025
+
+**Today's Progress**:
+Contracting, Delivery days and DTOs Mappers tested
+
+**Thoughts:** Man, I am tired of learning good practices in DDD-Clean Architecture-CQRS, but I am learning too well, bur failing a lot in the process.
+
+Anyway, it wasn't impossible for me to do the stream like I wanted, but I write some code and that is the important thing.
+
+**Links to work:** 
+[Stream 1](https://youtube.com/live/IsGMGecxMdw)
 [Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)

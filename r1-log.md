@@ -36,3 +36,9 @@ Doing the firsts tests
 
 ### R1D11
 Abstractions and Valueobjects test done
+
+### R1D12
+Administrator and Patient tests done
+
+### R1D13
+Contract and Delivery tests done
