@@ -142,7 +142,7 @@ Administrator and Patient test added
 **Thoughts:** Everytime I do something in my project, I search if I applyied right the DDD architecture, only to find out that I did it wrong, so I went back to rewrite that part of the code and parts that calls it.
 
 **Links to work:** 
-[Stream 1](https://youtube.com/live/vc15g9QLt5Q)
+[Stream](https://youtube.com/live/vc15g9QLt5Q)
 [Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
 
 ### Day 14: October 4, 2025
@@ -155,5 +155,17 @@ Contracting, Delivery days and DTOs Mappers tested
 Anyway, it wasn't impossible for me to do the stream like I wanted, but I write some code and that is the important thing.
 
 **Links to work:** 
-[Stream 1](https://youtube.com/live/IsGMGecxMdw)
+[Stream](https://youtube.com/live/IsGMGecxMdw)
+[Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
+
+### Day 15: October 6, 2025
+
+**Today's Progress**:
+Mappers and DTOs tested
+
+**Thoughts:** Working with mocks in Go is so much diffrent that in .NET, and so much harder
+
+**Links to work:** 
+[Stream 1](https://youtube.com/live/4AA-jRidrpA)
+[Stream 2](https://youtube.com/live/xsPNoYgglyA)
 [Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)

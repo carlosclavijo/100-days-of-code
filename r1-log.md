@@ -42,3 +42,9 @@ Administrator and Patient tests done
 
 ### R1D13
 Contract and Delivery tests done
+
+### R1D14
+Domain layer tests done
+
+### R1D15
+Mappers and Dtos tests
