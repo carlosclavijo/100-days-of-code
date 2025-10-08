@@ -48,3 +48,6 @@ Domain layer tests done
 
 ### R1D15
 Mappers and Dtos tests
+
+### R1D16
+Command handler tests and Error handling added

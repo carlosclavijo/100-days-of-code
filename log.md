@@ -169,3 +169,14 @@ Mappers and DTOs tested
 [Stream 1](https://youtube.com/live/4AA-jRidrpA)
 [Stream 2](https://youtube.com/live/xsPNoYgglyA)
 [Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
+
+### Day 16: October 7, 2025
+
+**Today's Progress**:
+Command handler tests and Error handling added
+
+**Thoughts:** Is insane how a simple architecture error needs to been rewrite in a lot of files, at least I am learning how NOT to do the same error twice, i think.
+
+**Links to work:** 
+[Stream](https://www.youtube.com/live/pS6oXouzj4Y)
+[Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
