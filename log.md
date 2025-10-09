@@ -60,7 +60,7 @@ Security and intelligent request responses added to all requests, logs on every 
 **Today's Progress**:
 Adding inmutability to Administrator and value objects.
 
-**Thoughts:** Working with DDD/CQRS/Clear architecture is 10 times time consuming that working with an MVC architecture
+**Thoughts:** Working with DDD/CQRS/Clear architecture is 10 times time consuming that working with an MVC architecture.
 
 **Links to work:** 
 [Stream](https://youtube.com/live/7Bd08CwJbMs)
@@ -69,9 +69,9 @@ Adding inmutability to Administrator and value objects.
 ### Day 7: September 16, 2025
 
 **Today's Progress**:
-Refactoring Requests
+Refactoring Requests.
 
-**Thoughts:** Learning good practices isnt that easy but is the best way to build(if you don't have a deadline, at least)
+**Thoughts:** Learning good practices isnt that easy but is the best way to build(if you don't have a deadline, at least).
 
 **Links to work:** 
 [Stream](https://youtube.com/live/sofZ0nIoBWQ)
@@ -80,7 +80,7 @@ Refactoring Requests
 ### Day 8: September 23, 2025
 
 **Today's Progress**:
-Creating the Contract Aggregate and Entity delivey
+Creating the Contract Aggregate and Entity delivey.
 
 **Thoughts:** I have troubles working with my first entity(non-aggregateRoot) and its relationship with its mother entity.
 
@@ -92,9 +92,9 @@ Creating the Contract Aggregate and Entity delivey
 ### Day 9: September 25, 2025
 
 **Today's Progress**:
-Adding functions to the Delivery
+Adding functions to the Delivery.
 
-**Thoughts:** Doing tests is kinda messy in Go, I remember in C# is easier
+**Thoughts:** Doing tests is kinda messy in Go, I remember in C# is easier.
 
 **Links to work:** 
 [Stream](https://www.youtube.com/live/sAJioQgndCo)
@@ -103,7 +103,7 @@ Adding functions to the Delivery
 ### Day 10: September 29, 2025
 
 **Today's Progress**:
-Refactoring the entire project with DDD and Clean architecture
+Refactoring the entire project with DDD and Clean architecture.
 
 **Thoughts:** Every time I do something new I realized that I do something wrong and need to reestrucuter. The good part is that when I will do another project I would know what am I doing.
 
@@ -114,7 +114,7 @@ Refactoring the entire project with DDD and Clean architecture
 ### Day 11: October 1, 2025
 
 **Today's Progress**:
-Contract and Delivery CRUD completed
+Contract and Delivery CRUD completed.
 
 **Thoughts:** Every time I do something new I realized that I do something wrong and need to reestrucuter. The good part is that when I will do another project I would know what am I doing.
 
@@ -125,9 +125,9 @@ Contract and Delivery CRUD completed
 ### Day 12: October 2, 2025
 
 **Today's Progress**:
-Abstractions and ValueObjects test added
+Abstractions and ValueObjects test added.
 
-**Thoughts:** There's a lot of functions inside the testing.T library, speccialy in the assets
+**Thoughts:** There's a lot of functions inside the testing.T library, speccialy in the assets.
 
 **Links to work:** 
 [Stream 1](https://youtube.com/live/ziI-xod-VWs)
@@ -137,7 +137,7 @@ Abstractions and ValueObjects test added
 ### Day 13: October 3, 2025
 
 **Today's Progress**:
-Administrator and Patient test added
+Administrator and Patient test added.
 
 **Thoughts:** Everytime I do something in my project, I search if I applyied right the DDD architecture, only to find out that I did it wrong, so I went back to rewrite that part of the code and parts that calls it.
 
@@ -148,7 +148,7 @@ Administrator and Patient test added
 ### Day 14: October 4, 2025
 
 **Today's Progress**:
-Contracting, Delivery days and DTOs Mappers tested
+Contracting, Delivery days and DTOs Mappers tested.
 
 **Thoughts:** Man, I am tired of learning good practices in DDD-Clean Architecture-CQRS, but I am learning too well, bur failing a lot in the process.
 
@@ -161,9 +161,9 @@ Anyway, it wasn't impossible for me to do the stream like I wanted, but I write 
 ### Day 15: October 6, 2025
 
 **Today's Progress**:
-Mappers and DTOs tested
+Mappers and DTOs tested.
 
-**Thoughts:** Working with mocks in Go is so much diffrent that in .NET, and so much harder
+**Thoughts:** Working with mocks in Go is so much diffrent that in .NET, and so much harder.
 
 **Links to work:** 
 [Stream 1](https://youtube.com/live/4AA-jRidrpA)
@@ -173,10 +173,22 @@ Mappers and DTOs tested
 ### Day 16: October 7, 2025
 
 **Today's Progress**:
-Command handler tests and Error handling added
+Command handler tests and Error handling added.
 
 **Thoughts:** Is insane how a simple architecture error needs to been rewrite in a lot of files, at least I am learning how NOT to do the same error twice, i think.
 
 **Links to work:** 
 [Stream](https://www.youtube.com/live/pS6oXouzj4Y)
+[Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
+
+### Day 17: October 8, 2025
+
+**Today's Progress**:
+Admininstrator and patient command handlers completed.
+
+**Thoughts:** Working with something new isn't that hard, learning how to used it well, is hard, a lot.
+
+**Links to work:** 
+[Stream 1](https://www.youtube.com/live/pfoWcT0MqZw)
+[Stream 1](https://www.youtube.com/live/_ST4KffJjMs)
 [Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
