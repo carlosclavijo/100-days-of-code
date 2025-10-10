@@ -54,3 +54,6 @@ Command handler tests and Error handling added
 
 ### R1D17
 Admininstrator and patient command handlers completed
+
+### R1D18
+GetHandlers completed, Administrator repository tests in the middle

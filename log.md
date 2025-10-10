@@ -97,7 +97,7 @@ Adding functions to the Delivery.
 **Thoughts:** Doing tests is kinda messy in Go, I remember in C# is easier.
 
 **Links to work:** 
-[Stream](https://www.youtube.com/live/sAJioQgndCo)
+[Stream](https://youtube.com/live/sAJioQgndCo)
 [Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
 
 ### Day 10: September 29, 2025
@@ -108,7 +108,7 @@ Refactoring the entire project with DDD and Clean architecture.
 **Thoughts:** Every time I do something new I realized that I do something wrong and need to reestrucuter. The good part is that when I will do another project I would know what am I doing.
 
 **Links to work:** 
-[Stream](https://www.youtube.com/live/sAJioQgndCo)
+[Stream](https://youtube.com/live/sAJioQgndCo)
 [Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
 
 ### Day 11: October 1, 2025
@@ -178,7 +178,7 @@ Command handler tests and Error handling added.
 **Thoughts:** Is insane how a simple architecture error needs to been rewrite in a lot of files, at least I am learning how NOT to do the same error twice, i think.
 
 **Links to work:** 
-[Stream](https://www.youtube.com/live/pS6oXouzj4Y)
+[Stream](https://youtube.com/live/pS6oXouzj4Y)
 [Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
 
 ### Day 17: October 8, 2025
@@ -189,6 +189,18 @@ Admininstrator and patient command handlers completed.
 **Thoughts:** Working with something new isn't that hard, learning how to used it well, is hard, a lot.
 
 **Links to work:** 
-[Stream 1](https://www.youtube.com/live/pfoWcT0MqZw)
-[Stream 1](https://www.youtube.com/live/_ST4KffJjMs)
+[Stream 1](https://youtube.com/live/pfoWcT0MqZw)
+[Stream 2](https://youtube.com/live/_ST4KffJjMs)
+[Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
+
+### Day 18: October 9, 2025
+
+**Today's Progress**:
+GetHandlers completed, Administrator repository tests in the middle
+
+**Thoughts:** Oversplitting my project almost broke all and I was getting mad everytime I try to fix it.
+
+**Links to work:** 
+[Stream 1](https://youtube.com/live/I-tNMX2pVWg)
+[Stream 2](https://youtube.com/live/3ralGSCWaRo)
 [Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
