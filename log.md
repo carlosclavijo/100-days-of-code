@@ -204,3 +204,15 @@ GetHandlers completed, Administrator repository tests in the middle
 [Stream 1](https://youtube.com/live/I-tNMX2pVWg)
 [Stream 2](https://youtube.com/live/3ralGSCWaRo)
 [Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
+
+### Day 19: October 10, 2025
+
+**Today's Progress**:
+Infrastructure layer test added
+
+**Thoughts:** Mocking is weid haha
+
+**Links to work:** 
+[Stream 1](https://youtube.com/live/Vdhvq3oiG_g)
+[Stream 2](https://youtube.com/live/o53vwp5wbd8)
+[Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)

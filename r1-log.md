@@ -57,3 +57,6 @@ Admininstrator and patient command handlers completed
 
 ### R1D18
 GetHandlers completed, Administrator repository tests in the middle
+
+### R1D19
+Infrastructure layer test added
