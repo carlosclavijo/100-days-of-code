@@ -216,3 +216,14 @@ Infrastructure layer test added
 [Stream 1](https://youtube.com/live/Vdhvq3oiG_g)
 [Stream 2](https://youtube.com/live/o53vwp5wbd8)
 [Repo](https://github.com/carlosclavijo/Nutricenter-Contracting)
+
+### Day 20: October 16, 2025
+
+**Today's Progress**:
+I started a new project, a pinterest clone.
+
+**Thoughts:** I am doing this like 10 times faster that when I was learning DDD
+
+**Links to work:** 
+[Stream](https://youtube.com/live/8uY4abgrgdc)
+[Repo](https://github.com/carlosclavijo/Pinterest-User)
